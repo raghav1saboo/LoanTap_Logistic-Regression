@@ -16,7 +16,7 @@ Given a set of attributes for an individual, the task is to determine if a credi
 
 ## Dataset
 
-The dataset used for this project is `LoanTapData.csv`.
+The dataset used for this project is `[LoanTapData.csv](https://drive.google.com/file/d/1ZPYj7CZCfxntE8p2Lze_4QO4MyEOy6_d/view?usp=sharing)`.
 
 ## Data Dictionary
 
